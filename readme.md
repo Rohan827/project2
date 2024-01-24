@@ -1,2 +1,2 @@
 # new project
-thsi  project was created from local system.
+thsi  project was created from local system
